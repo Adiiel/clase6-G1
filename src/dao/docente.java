@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package entidad;
+package dao;
 
 /**
  *
  * @author UPEU
  */
-public class Usuario {
+public class docente {
     
 }
